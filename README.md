@@ -1,1 +1,1 @@
-왜 안되는거지
+#amazon.html
